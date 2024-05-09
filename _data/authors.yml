@@ -5,6 +5,9 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+mong:
+  name: 몽쉘
+  url: https://github.com/seungwon9/
 
 cotes:
   name: Cotes Chung
