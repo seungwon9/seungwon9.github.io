@@ -1,7 +1,7 @@
 ---
 title: 임베디드 소프트웨어 기초 용어 정리
 author: mong
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-06-12 HH:MM:SS +09:00
 categories: [Embeded SoftWare, 스터디]
 tags:
   [
