@@ -2,7 +2,7 @@
 title: 임베디드 소프트웨어 기초 용어 정리
 author: mong
 date: 2024-06-12 10:00:00 +09:00
-categories: [Embeded SoftWare, 스터디]
+categories: [Embeded SoftWare, Embeded-스터디]
 tags:
   [
     Firmware,

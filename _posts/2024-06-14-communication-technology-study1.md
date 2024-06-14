@@ -2,7 +2,7 @@
 title: 통신 기술에 영향을 미치는 요인
 author: mong
 date: 2024-06-14 10:00:00 +09:00
-categories: [Communication, 스터디]
+categories: [Communication, Commnunicaiton-스터디]
 tags:
   [
     Communication,
